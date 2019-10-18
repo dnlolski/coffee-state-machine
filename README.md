@@ -1,5 +1,5 @@
 # COFFEE MACHINE
-    Few words regarding my ideas in this Tiny project. I have decided to use design pattern called State Machine.
+ Few words regarding my ideas in this Tiny project. I have decided to use design pattern called State Machine.
 Vending machine consists of blueprint for states, actual states and coffee machine which orchestrates whole work.
 In the machine there are several types of coffee and three sizes also coffee machine keeps track of resources like milk
 and water. I have prepared several unit tests for states, coffee and coffee machine, and 'not' so unit tests,
