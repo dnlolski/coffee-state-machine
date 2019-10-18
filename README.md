@@ -4,6 +4,6 @@ Vending machine consists of blueprint for states, actual states and coffee machi
 In the machine there are several types of coffee and three sizes also coffee machine keeps track of resources like milk
 and water. I have prepared several unit tests for states, coffee and coffee machine, and 'not' so unit tests,
 as some of the test from coffee_machine could be classified as integration tests.
-'GUI' is made in simple main.py - inputs unfortunately do not have any validation so please be gentle with it.
+'GUI' is made in simple main.py.
 Coded using standard libraries.
 
